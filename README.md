@@ -14,7 +14,19 @@
 ![image](https://github.com/Insomnia2331/Task-manager/assets/103230242/89d24146-86c9-4910-a523-3c862b705991)  
 
 
-![image](https://github.com/Insomnia2331/Task-manager/assets/103230242/336618ec-b2b5-40b5-9f35-50b490b1c17f)
+![image](https://github.com/Insomnia2331/Task-manager/assets/103230242/336618ec-b2b5-40b5-9f35-50b490b1c17f)  
+
+
+# How to Run in your local machine  
+* Download files and unzip them to your work environment
+
+* Run npm i /npm install to install any dependencies you may need
+
+* Run npm start
+
+* Well Done!
+
+
 
 
 
